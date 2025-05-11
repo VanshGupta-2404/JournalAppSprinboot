@@ -141,10 +141,3 @@ For any questions or suggestions, feel free to reach out:
 
 
 ---
-
-Feel free to customize this `README.md` further to match your project's specifics. Let me know if you need assistance with any other part of your project!
-
-[1]: https://github.com/VanshGupta-2404?utm_source=chatgpt.com "VanshGupta-2404 (Vansh Gupta) - GitHub"
-[2]: https://github.com/VanshGupta-2404/ChatBOT_Hackathon?utm_source=chatgpt.com "VanshGupta-2404/ChatBOT_Hackathon - GitHub"
-[3]: https://github.com/Vansh-Gupta4?utm_source=chatgpt.com "Vansh-Gupta4 (Vansh Gupta) - GitHub"
-[4]: https://github.com/VanshGupta-2404/Bank_of_Baroda_hackathon?utm_source=chatgpt.com "VanshGupta-2404/Bank_of_Baroda_hackathon - GitHub"
